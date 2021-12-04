@@ -6,7 +6,7 @@ Predicting Diabetes using the Pima Indian Diabetes Dataset.
 ### Objective:
 Use Machine Learning to process and transform Pima Indian Diabetes data to create a prediction model. This model must predict which people are likely to develop diabetes with > 70% accuracy (i.e. accuracy in the confusion matrix).
 
-Source codes are in the Jupyter notebook:  [Pima Diabetes Prediction.ipynb](https://github.com/yanniey/ML-with-Python-Predicting-Diabetes-using-the-Pima-Indian-Diabetes-Dataset/blob/master/Pima%20Diabetes%20Prediction.ipynb)
+Source codes are in the Jupyter notebook:  [Pima Diabetes Prediction.ipynb](https://github.com/primal08/Diabetes-Medical-Predictor/blob/main/Data_Automation.ipynb)
 
 ```python
 import numpy as np
